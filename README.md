@@ -14,4 +14,3 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 </div>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/mclaraop/blob/output/github-contribution-grid-snake.svg)
