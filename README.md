@@ -14,12 +14,6 @@ Olá, eu sou Maria Clara, uma estudante de Análise e Desenvolvimento de Sistema
 <a href="https://www.linkedin.com/in/mclaraop/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-### Estatísticas do GitHub:
-<div>
-<a href="https://github.com/mclaraop">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?mclaraop&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?mclaraop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ### Vamos Conectar!
 Se você compartilha interesses semelhantes ou deseja colaborar em projetos interessantes, ficarei feliz em me conectar. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
